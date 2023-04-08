@@ -1,0 +1,16 @@
+﻿"View current status and skills."
+[Veja seus status atuais é skills.]
+
+"View the Information Matrix."
+[Veja a Matrix de informações]
+
+"Change equipped Mystic Code."
+[Mude seu Mystic Code equipado.]
+
+"View items in your inventory."
+[Veja os itens do seu inventário.]
+
+"Save game and adjust settings."
+[Salve o jogo ou ajuste as configurações.]
+
+

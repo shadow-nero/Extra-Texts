@@ -1,0 +1,28 @@
+﻿"Master's name"
+[Master's name]
+
+"Tamamo-no-Mae"
+[Tamamo-no-Mae]
+
+"Servant Anonym"
+[Servant Anonym]
+
+"The Eightfold Blessing of Amaterasu"
+[The Eightfold Blessing of Amaterasu]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Maleficium"
+[Maleficium]
+
+"Red Lily of the Killing Stone of Nasu"
+[Red Lily of the Killing Stone of Nasu]
+
+"Character Background"
+[Character Background]
+
+""Dakini Deva""
+["Dakini Deva"]
+
+

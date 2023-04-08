@@ -1,0 +1,28 @@
+﻿"Dan Blackmore"
+[Dan Blackmore]
+
+"Robin Hood"
+[Robin Hood]
+
+"Servant Anonym"
+[Servant Anonym]
+
+"Yew Bow:\nHoly Bow of Supplication"
+[Yew Bow:\nHoly Bow of Supplication]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Sherwood Forest"
+[Sherwood Forest]
+
+"Faceless King"
+[Faceless King]
+
+"Character Background"
+[Character Background]
+
+""Robin Hood""
+["Robin Hood"]
+
+

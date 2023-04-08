@@ -1,0 +1,39 @@
+﻿"Buy"
+[Comprar]
+
+"Sell"
+[Vender]
+
+"Exit"
+[Sair] 
+
+"Items"
+[Itens]
+
+"Mystic Code"
+[Mystic Code]
+
+"How many would you like to buy?"
+[Quantos você gostaria de comprar?]
+
+"How many would you like to sell?"
+[Quantos você gostaria de vender?]
+
+"Change into this Mystic Code?"
+[Desejar trocar para este Mystic Code?]
+
+"Yes"
+[Sim]
+
+"No"
+[Não]
+
+"It's too expensive... I'll pass."
+[Isso é muito caro... eu passo.]
+
+"It looks like it's sold out.
+I'll try again later."
+[Parece que está esgotado.
+Tente novamente mais tarde.]
+
+

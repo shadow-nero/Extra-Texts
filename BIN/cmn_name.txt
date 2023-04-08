@@ -1,0 +1,343 @@
+﻿"Protagonist: Male"
+[Protagonist: Male]
+
+"Protagonist: Female"
+[Protagonist: Female]
+
+"Rin Tohsaka"
+[Rin Tohsaka]
+
+"Rani VIII"
+[Rani VIII]
+
+"Shinji Matou"
+[Shinji Matou]
+
+"Dan Blackmore"
+[Dan Blackmore]
+
+"Alice"
+[Alice]
+
+"Monji Gatou"
+[Monji Gatou]
+
+"Lil' Ronnie"
+[Lil' Ronnie]
+
+"Julius"
+[Julius]
+
+"Julius"
+[Julius]
+
+"Leo"
+[Leo]
+
+"Twice H. Pieceman"
+[Twice H. Pieceman]
+
+"Introductory Character"
+[Introductory Character]
+
+"Saber"
+[Saber]
+
+"Archer"
+[Archer]
+
+"Caster"
+[Caster]
+
+"Lancer"
+[Lancer]
+
+"Berserker"
+[Berserker]
+
+"Rider"
+[Rider]
+
+"Archer"
+[Archer]
+
+"Caster"
+[Caster]
+
+"Berserker"
+[Berserker]
+
+"Lancer"
+[Lancer]
+
+"Assassin"
+[Assassin]
+
+"Berserker"
+[Berserker]
+
+"Saber"
+[Saber]
+
+"Savior"
+[Savior]
+
+"Arturia"
+[Arturia]
+
+"Shiki Ryougi"
+[Shiki Ryougi]
+
+"Father Kotomine"
+[Father Kotomine]
+
+"Sakura Matou"
+[Sakura Matou]
+
+"Aoko Aozaki"
+[Aoko Aozaki]
+
+"Touko Aozaki"
+[Touko Aozaki]
+
+"Taiga Fujimura"
+[Taiga Fujimura]
+
+"Issei Ryuudou"
+[Issei Ryuudou]
+
+"Sales Clerk (Male)"
+[Sales Clerk (Male)]
+
+"Student 1  (Male)"
+[Student 1  (Male)]
+
+"Student 2  (Male)"
+[Student 2  (Male)]
+
+"Student 3  (Male)"
+[Student 3  (Male)]
+
+"Student 4  (Male)"
+[Student 4  (Male)]
+
+"Student 5  (Male)"
+[Student 5  (Male)]
+
+"Student 6  (Male)"
+[Student 6  (Male)]
+
+"Student 7  (Male)"
+[Student 7  (Male)]
+
+"Student 8  (Male)"
+[Student 8  (Male)]
+
+"Student 9  (Male)"
+[Student 9  (Male)]
+
+"Student 10  (Male)"
+[Student 10  (Male)]
+
+"Student 1  (Female)"
+[Student 1  (Female)]
+
+"Student 2  (Female)"
+[Student 2  (Female)]
+
+"Student 3  (Female)"
+[Student 3  (Female)]
+
+"Student 4  (Female)"
+[Student 4  (Female)]
+
+"Student 5  (Female)"
+[Student 5  (Female)]
+
+"Student 6  (Female)"
+[Student 6  (Female)]
+
+"Student 7  (Female)"
+[Student 7  (Female)]
+
+"Student 8  (Female)"
+[Student 8  (Female)]
+
+"Student 9  (Female)"
+[Student 9  (Female)]
+
+"Student 10  (Female)"
+[Student 10  (Female)]
+
+"Effigy"
+[Effigy]
+
+"Saber Effigy"
+[Saber Effigy]
+
+"Lancer Effigy"
+[Lancer Effigy]
+
+"Archer Effigy"
+[Archer Effigy]
+
+"Assassin Effigy"
+[Assassin Effigy]
+
+"Rider Effigy"
+[Rider Effigy]
+
+"Berserker Effigy"
+[Berserker Effigy]
+
+"Caster Effigy"
+[Caster Effigy]
+
+"Ball"
+[Ball]
+
+"Ball"
+[Ball]
+
+"Ball"
+[Ball]
+
+"Ball"
+[Ball]
+
+"Angel"
+[Angel]
+
+"Angel"
+[Angel]
+
+"Angel"
+[Angel]
+
+"Angel"
+[Angel]
+
+"Cube"
+[Cube]
+
+"Cube"
+[Cube]
+
+"Cube"
+[Cube]
+
+"Cube"
+[Cube]
+
+"Viper"
+[Viper]
+
+"Viper"
+[Viper]
+
+"Viper"
+[Viper]
+
+"Viper"
+[Viper]
+
+"Fly"
+[Fly]
+
+"Fly"
+[Fly]
+
+"Fly"
+[Fly]
+
+"Fly"
+[Fly]
+
+"Horn"
+[Horn]
+
+"Horn"
+[Horn]
+
+"Horn"
+[Horn]
+
+"Horn"
+[Horn]
+
+"Laceration"
+[Laceration]
+
+"Laceration"
+[Laceration]
+
+"Laceration"
+[Laceration]
+
+"Laceration"
+[Laceration]
+
+"Shadow"
+[Shadow]
+
+"Shadow"
+[Shadow]
+
+"Shadow"
+[Shadow]
+
+"Shadow"
+[Shadow]
+
+"Golem"
+[Golem]
+
+"Golem"
+[Golem]
+
+"Golem"
+[Golem]
+
+"Golem"
+[Golem]
+
+"Garuda"
+[Garuda]
+
+"Garuda"
+[Garuda]
+
+"Garuda"
+[Garuda]
+
+"Garuda"
+[Garuda]
+
+"Nephilim"
+[Nephilim]
+
+"Nephilim"
+[Nephilim]
+
+"Nephilim"
+[Nephilim]
+
+"Nephilim"
+[Nephilim]
+
+"Moby Dick"
+[Moby Dick]
+
+"Nightmare"
+[Nightmare]
+
+"Jabberwock"
+[Jabberwock]
+
+"Lancer Effigy"
+[Lancer Effigy]
+
+"Berserker Effigy"
+[Berserker Effigy]
+
+

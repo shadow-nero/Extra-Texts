@@ -1,0 +1,28 @@
+﻿"Lil' Ronnie"
+[Lil' Ronnie]
+
+"Vlad III"
+[Vlad III]
+
+"Vlad III?"
+[Vlad III?]
+
+"Kazikli Bey:\nFortress of Impalement"
+[Kazikli Bey:\nFortress of Impalement]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Vampire...?"
+[Vampire...?]
+
+"Dracula"
+[Dracula]
+
+"Character Background"
+[Character Background]
+
+""Dracula""
+["Dracula"]
+
+

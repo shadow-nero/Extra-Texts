@@ -1,0 +1,19 @@
+﻿"Master Support Command"
+[Master Support Command]
+
+"Required MP"
+[Necessário MP]
+
+"MP"
+[MP]
+
+"% Over"
+[% Over]
+
+"Heal & scan enemy. Cost: One Turn"
+[Cure e escaneie o inimigo. Custo: Um Turno]
+
+"Command Seal"
+[Selo de Comando]
+
+

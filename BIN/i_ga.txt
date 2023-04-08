@@ -1,0 +1,43 @@
+﻿"DUMMY"
+[DUMMY]
+
+"DUMMY"
+[DUMMY]
+
+"Raises damage done to enemies."
+[Raises damage done to enemies.]
+
+"Lowers damage done by enemies."
+[Lowers damage done by enemies.]
+
+"Stabilizes damage stats, raises skill speed."
+[Stabilizes damage stats, raises skill speed.]
+
+"Raises magic ability, lowers damage from magic."
+[Raises magic ability, lowers damage from magic.]
+
+"Raises critical hit rate and defense when in jeopardy."
+[Raises critical hit rate and defense when in jeopardy.]
+
+"Begin Alteration"
+[Begin Alteration]
+
+"Strength Ranking has Increased"
+[Strength Ranking has Increased]
+
+"Endurance Ranking has Increased"
+[Endurance Ranking has Increased]
+
+"Agility Ranking has Increased"
+[Agility Ranking has Increased]
+
+"Magic Ranking has Increased"
+[Magic Ranking has Increased]
+
+"Luck Ranking has Increased"
+[Luck Ranking has Increased]
+
+"acquired"
+[acquired]
+
+

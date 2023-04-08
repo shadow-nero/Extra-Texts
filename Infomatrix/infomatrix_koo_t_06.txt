@@ -1,0 +1,257 @@
+﻿"A form of thaumaturgy unique to Northern Europe.
+The foundation of this craft is the engraving of
+words of power into stone to induce various
+mystical events. It is believed that this ability
+has been lost to time."
+[A form of thaumaturgy unique to Northern Europe.
+The foundation of this craft is the engraving of
+words of power into stone to induce various
+mystical events. It is believed that this ability
+has been lost to time.]
+
+"A hero believed to be the offspring of a god and a
+human. Demigods are fairly common amongst the
+Heroic Spirits drawn from human mythology,
+although few of them are considered more than
+second-tier heroes by their adherents. This one,
+however, is believed to have inherited the blood
+of the Absolute One, the main god of his nation's
+pantheon of immortal beings."
+[A hero believed to be the offspring of a god and a
+human. Demigods are fairly common amongst the
+Heroic Spirits drawn from human mythology,
+although few of them are considered more than
+second-tier heroes by their adherents. This one,
+however, is believed to have inherited the blood
+of the Absolute One, the main god of his nation's
+pantheon of immortal beings.]
+
+"A crimson spear that always finds its mark.
+The truth of this weapon is far more sinister than
+legend says. In a strange reversal of causality,
+the target and ultimate effect of this weapon have
+already been ordained. The only variable presence
+in a successful attack is whether it is used or
+not. Once used, it is not a question of if it will
+hit, but how long it will take for its target to
+die. Agility will not help one avoid Gae Bolg
+should it be used, but instead it all depends on
+one's Luck.
+Gae Bolg is the most efficient and deadly of all
+the Noble Phantasms, as it has a very low magic
+cost and almost always results in a one-hit kill."
+[A crimson spear that always finds its mark.
+The truth of this weapon is far more sinister than
+legend says. In a strange reversal of causality,
+the target and ultimate effect of this weapon have
+already been ordained. The only variable presence
+in a successful attack is whether it is used or
+not. Once used, it is not a question of if it will
+hit, but how long it will take for its target to
+die. Agility will not help one avoid Gae Bolg
+should it be used, but instead it all depends on
+one's Luck.
+Gae Bolg is the most efficient and deadly of all
+the Noble Phantasms, as it has a very low magic
+cost and almost always results in a one-hit kill.]
+
+"An anonym of the Noble Phantasm will be displayed."
+[An anonym of the Noble Phantasm will be displayed.]
+
+"Nullifies minor spells consisting of chants of two
+verses or less. Ineffective against high-level
+thaumaturgy and the greater rituals."
+[Nullifies minor spells consisting of chants of two
+verses or less. Ineffective against high-level
+thaumaturgy and the greater rituals.]
+
+"Increases vitality when in deadly peril. Makes it
+possible to fight even with fatal injuries and
+remain alive as long as a final decisive blow
+isn't struck. The ability rank of this skill has
+been temporarily reduced as his Master chose to
+boost his overall endurance at the expense of
+this ability."
+[Increases vitality when in deadly peril. Makes it
+possible to fight even with fatal injuries and
+remain alive as long as a final decisive blow
+isn't struck. The ability rank of this skill has
+been temporarily reduced as his Master chose to
+boost his overall endurance at the expense of
+this ability.]
+
+"This is a measure of one's Divine Spirit aptitude.
+The higher the value, the closer they are to a
+Divine Spirit. With each rank, their "purge
+defense" resistance lowers accordingly as well.
+Those with a high Divinity rank can break
+through skills such as "Enlightenment of the
+Sacred Fig" or "Protection of the Faith.""
+[This is a measure of one's Divine Spirit aptitude.
+The higher the value, the closer they are to a
+Divine Spirit. With each rank, their "purge
+defense" resistance lowers accordingly as well.
+Those with a high Divinity rank can break
+through skills such as "Enlightenment of the
+Sacred Fig" or "Protection of the Faith."]
+
+"One of the great heroes of Ireland.
+
+First appears as demigod in Ulster mythology and
+is said to be the son of Lugh, the God of Light,
+and Deichtine, the younger sister of Conchobar,
+King of Ulster. His birth name was Setanta and
+from an early age it was foretold that he would
+become a hero of renown.
+
+He was christened Cu Chulainn (which mean Culann's
+Hound) after accidentally killing the watchdog of
+a wealthy merchant. He took the name with pride,
+vowing, "I will devote myself to the rearing of a
+watchdog worthy of replacing the one I have just
+slain and until such time as that dog is ready, I
+will personally watch over and guard your life
+with my own."
+
+Upon becoming an adult, Cu Chulainn was enrolled
+into the order known as the Knights of the Red
+Branch and then sent to the warrior-woman Scathach
+in the Land of Shadows to train as a warrior, and,
+according to darker rumors, meet his death.
+Fortunately, Scathach saw in him a worthy student
+and disciple and passed on all that she knew of
+both the martial arts and the more powerful
+aspects of thaumaturgy. Upon the completion of his
+training, Cu Chulainn was given the mighty demonic
+spear Gae Bolg and told to depart from the Land of
+Shadows.
+
+After returning to be beloved homeland, his
+triumphs were many...but that is a story for
+another time."
+[One of the great heroes of Ireland.
+
+First appears as demigod in Ulster mythology and
+is said to be the son of Lugh, the God of Light,
+and Deichtine, the younger sister of Conchobar,
+King of Ulster. His birth name was Setanta and
+from an early age it was foretold that he would
+become a hero of renown.
+
+He was christened Cu Chulainn (which mean Culann's
+Hound) after accidentally killing the watchdog of
+a wealthy merchant. He took the name with pride,
+vowing, "I will devote myself to the rearing of a
+watchdog worthy of replacing the one I have just
+slain and until such time as that dog is ready, I
+will personally watch over and guard your life
+with my own."
+
+Upon becoming an adult, Cu Chulainn was enrolled
+into the order known as the Knights of the Red
+Branch and then sent to the warrior-woman Scathach
+in the Land of Shadows to train as a warrior, and,
+according to darker rumors, meet his death.
+Fortunately, Scathach saw in him a worthy student
+and disciple and passed on all that she knew of
+both the martial arts and the more powerful
+aspects of thaumaturgy. Upon the completion of his
+training, Cu Chulainn was given the mighty demonic
+spear Gae Bolg and told to depart from the Land of
+Shadows.
+
+After returning to be beloved homeland, his
+triumphs were many...but that is a story for
+another time.]
+
+"All of the stories that surround the legend of
+Cu Chulainn are universal in their praise for his
+loyalty, heroism, and compassion. And although he
+was famous for his terrifying "battle spasms"
+while on the battle field, his seemingly blind
+rage never overcame his steadfast adherence to his
+moral code.
+
+Unfortunately, it was this unwavering adherence to
+honor that in the end lead to Cu Chulainn's
+demise. As a Celtic warrior, he was bound by a
+number of geasa (taboos), the violation of which
+would greatly weaken him. As a youth, he
+single-handedly defended Ulster from the armies
+of Queen Medb of Connacht. To add to the insult of
+a single man annihilating her army, Cu Chulainn
+came across her on the field of battle, but chose
+to spare her life as he thought it dishonorable to
+kill a woman. From that moment on, the desire to
+see him die became an all-consuming passion for
+the disgraced queen.
+
+Medb eventually came up with a scheme to weaken
+Cu Chulainn by using his own code of honor
+against him. By forcing him to violate several of
+the geasa that bound him, Cu Chulainn was
+stripped of the divine protections and gifts that
+were his birthright. However, he still managed to
+die with honor, tying himself to a stone pillar
+even as his life faded, as he vowed to never fall
+in battle."
+[All of the stories that surround the legend of
+Cu Chulainn are universal in their praise for his
+loyalty, heroism, and compassion. And although he
+was famous for his terrifying "battle spasms"
+while on the battle field, his seemingly blind
+rage never overcame his steadfast adherence to his
+moral code.
+
+Unfortunately, it was this unwavering adherence to
+honor that in the end lead to Cu Chulainn's
+demise. As a Celtic warrior, he was bound by a
+number of geasa (taboos), the violation of which
+would greatly weaken him. As a youth, he
+single-handedly defended Ulster from the armies
+of Queen Medb of Connacht. To add to the insult of
+a single man annihilating her army, Cu Chulainn
+came across her on the field of battle, but chose
+to spare her life as he thought it dishonorable to
+kill a woman. From that moment on, the desire to
+see him die became an all-consuming passion for
+the disgraced queen.
+
+Medb eventually came up with a scheme to weaken
+Cu Chulainn by using his own code of honor
+against him. By forcing him to violate several of
+the geasa that bound him, Cu Chulainn was
+stripped of the divine protections and gifts that
+were his birthright. However, he still managed to
+die with honor, tying himself to a stone pillar
+even as his life faded, as he vowed to never fall
+in battle.]
+
+"A form of thaumaturgy uniqu..."
+[A form of thaumaturgy uniqu...]
+
+"A hero believed to be the o..."
+[A hero believed to be the o...]
+
+"A crimson spear that always..."
+[A crimson spear that always...]
+
+"An anonym of the Noble Phan..."
+[An anonym of the Noble Phan...]
+
+"Nullifies minor spells cons..."
+[Nullifies minor spells cons...]
+
+"Increases vitality when in ..."
+[Increases vitality when in ...]
+
+"This is a measure of one's ..."
+[This is a measure of one's ...]
+
+"One of the great heroes of ..."
+[One of the great heroes of ...]
+
+"All of the stories that sur..."
+[All of the stories that sur...]
+
+

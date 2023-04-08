@@ -1,0 +1,175 @@
+﻿"???"
+[???]
+
+"Rider"
+[Rider]
+
+"???"
+[???]
+
+"Archer"
+[Archer]
+
+"???"
+[???]
+
+"Caster"
+[Caster]
+
+"???"
+[???]
+
+"Lancer"
+[Lancer]
+
+"???"
+[???]
+
+"Berserker"
+[Berserker]
+
+"???"
+[???]
+
+"Assassin"
+[Assassin]
+
+"---"
+[---]
+
+"Lancer"
+[Lancer]
+
+"???"
+[???]
+
+"Berserker"
+[Berserker]
+
+"???"
+[???]
+
+"Saber"
+[Saber]
+
+"???"
+[???]
+
+"Savior"
+[Savior]
+
+"???"
+[???]
+
+"Human"
+[Human]
+
+"Saber"
+[Saber]
+
+"Archer"
+[Archer]
+
+"Caster"
+[Caster]
+
+"Anti-Magic [B]"
+[Anti-Magic [B]]
+
+"Anti-Magic [C]"
+[Anti-Magic [C]]
+
+"Anti-Magic [D]"
+[Anti-Magic [D]]
+
+"Royal Prerogative [EX]"
+[Royal Prerogative [EX]]
+
+"Migraine [B]"
+[Migraine [B]]
+
+"Independence [A]"
+[Independence [A]]
+
+"Independence [C]"
+[Independence [C]]
+
+"Mind's Eye (True) [B]"
+[Mind's Eye (True) [B]]
+
+"Maleficium [EX]"
+[Maleficium [EX]]
+
+"Territory Creation [A]"
+[Territory Creation [A]]
+
+"Territory Creation [C]"
+[Territory Creation [C]]
+
+"Transformation [A]"
+[Transformation [A]]
+
+"Transformation [A@]"
+[Transformation [A@]]
+
+"Rider on the Storm [A@]"
+[Rider on the Storm [A@]]
+
+"Settler of the Stars [EX]"
+[Settler of the Stars [EX]]
+
+"Subversion [A]"
+[Subversion [A]]
+
+"Metamorphosis [A]"
+[Metamorphosis [A]]
+
+"Aegis of the Divine [A@@@]"
+[Aegis of the Divine [A@@@]]
+
+"Marshal [A]"
+[Marshal [A]]
+
+"Marshal [A��C]"
+[Marshal [A��C]]
+
+"Seraphic Monstrosity [A]"
+[Seraphic Monstrosity [A]]
+
+"Blind Rage [A]"
+[Blind Rage [A]]
+
+"Blind Rage [A��C]"
+[Blind Rage [A��C]]
+
+"Mystic Eyes [A��C]"
+[Mystic Eyes [A��C]]
+
+"Origin of All [EX��X]"
+[Origin of All [EX��X]]
+
+"Obfuscation [-]"
+[Obfuscation [-]]
+
+"Liuhe Quan [A@@@]"
+[Liuhe Quan [A@@@]]
+
+"Concealment [A]"
+[Concealment [A]]
+
+"Fortitude [B]"
+[Fortitude [B]]
+
+"Restless Soul [B]"
+[Restless Soul [B]]
+
+"Divinity[B]"
+[Divinity[B]]
+
+"Dragoon [B]"
+[Dragoon [B]]
+
+"Numeral of the Saint [EX]"
+[Numeral of the Saint [EX]]
+
+

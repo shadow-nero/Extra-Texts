@@ -1,0 +1,19 @@
+﻿"This mode is for those who wish
+to fully enjoy the experience."
+[Esse modo é para aqueles que desejam desfrutar
+plenamente da experiência.]
+
+"This mode is for those who are
+new to the RPG genre."
+[Esse modo é para aqueles que são novos
+no gênero RPG.]
+
+"#C255120120Clear Data has been loaded.#CDEF"
+[#C255120120Clear Data has been loaded.#CDEF]
+
+"Skip the prologue and start from
+the Servant selection event."
+[Prólogo será pulado é começado
+desde a seleção dos Servos.]
+
+

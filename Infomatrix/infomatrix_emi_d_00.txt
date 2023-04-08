@@ -1,0 +1,28 @@
+﻿"Master's Name"
+[Master's Name]
+
+"No Name"
+[No Name]
+
+"Servant Anonym"
+[Servant Anonym]
+
+"Unlimited Blade Works:\nUniverse of Endless Blades"
+[Unlimited Blade Works:\nUniverse of Endless Blades]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Kanshou and Bakuya"
+[Kanshou and Bakuya]
+
+"Hero of Wrought Iron"
+[Hero of Wrought Iron]
+
+"Character Background"
+[Character Background]
+
+""Ally of Justice""
+["Ally of Justice"]
+
+

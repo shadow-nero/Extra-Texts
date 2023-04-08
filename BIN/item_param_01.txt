@@ -1,0 +1,1041 @@
+"Yakisoba Bread"
+[Pão de Yakisoba]
+
+"Restores a miniscule amount of a Master's MP."
+[Restaura uma minúscula quantidade de MP de um Mestre.]
+
+"Only 100 of these sandwiches are made each day."
+[São feito apenas 100 desses pães por dia.]
+
+"Students have been injured trying to get one."
+[Vários alunos já se feriram ao tentar obter um.]
+
+"Curry Bread"
+[Pão de Curry]
+
+"Restores a miniscule amount of a Master's MP."
+[Restaura uma minúscula quantidade de MP de um Mestre.]
+
+"A popular deep-fried bun filled with curry."
+[Um popular pão frito recheado com curry.]
+
+"Some consider it god's gift to snack foods."
+[Alguns consideram um presente do Deus dos lanches.]
+
+"Super-spicy Mabo Tofu"
+[Mabo Tofu Super Picante]
+
+"Restores a small amount of a Master's MP."
+[Restaura uma pequena quantidade de MP de um Mestre.]
+
+"As per Kotomine, this dish is amazingly spicy."
+[De acordo com Kotomine, esse prato é incrivelmente picante.]
+
+"It is a rare treat available for today only!"
+[Uma comida rara disponível apenas hoje!]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"Ether Powder"
+[Ether em Pó]
+
+"Restores a miniscule amount of a Servant's HP."
+[Restaura uma quantidade minúscula de HP de um Servo.]
+
+"A mysterious crystalline substance that"
+[Uma misteriosa substância cristalina que]
+
+"restores a miniscule amount of a Servant's HP."
+[restaura uma minúscula quantidade de HP de um Servo.]
+
+"Ether Shard"
+[Ether Estilhaçado]
+
+"Restores a small amount of a Servant's HP."
+[Restaura uma pequena quantidade de HP de um Servo.]
+
+"A mysterious crystalline substance that"
+[Uma misteriosa substância cristalina que]
+
+"restores a small amount of a Servant's HP."
+[restaura uma pequena quantidade de HP de um Servo.]
+
+"Ether Fragment"
+[Ether Fragmentado]
+
+"Restores a moderate amount of a Servant's HP."
+[Restaura moderadamente o HP de um Servo.]
+
+"A mysterious crystalline substance that"
+[Uma misteriosa substância cristalina que]
+
+"restores a moderate amount of a Servant's HP."
+[restaura moderadamente o HP de um Servo.]
+
+"Ether Crystal"
+[Ether Cristalizado]
+
+"Restores a significant amount of a Servant's HP."
+[Restaura significamente o HP de um Servo.]
+
+"A mysterious crystalline substance that"
+[Uma misteriosa substância cristalina que]
+
+"restores a significant amount of a Servant's HP."
+[restaura significamente o HP de um Servo..]
+
+"Pure Ether"
+[Ether Puro]
+
+"Completely restores a Servant's HP."
+[Restaura completamente o HP de um Servo.]
+
+"A mysterious crystalline substance that"
+[Uma misteriosa substância cristalina que]
+
+"completely restores a Servant's HP."
+[restaura completamente o HP de um Servo.]
+
+"Magic Crystal Shard"
+[]
+
+"Restores a small amount of a Master's MP."
+[Restores a small amount of a Master's MP.]
+
+"A shard of crystal that restores"
+[A shard of crystal that restores]
+
+"a small amount of a Master's MP."
+[a small amount of a Master's MP.]
+
+"Magic Crystal Fragment"
+[Magic Crystal Fragment]
+
+"Restores a moderate amount of a Master's MP."
+[Restores a moderate amount of a Master's MP.]
+
+"A fragment of crystal that restores"
+[A fragment of crystal that restores]
+
+"a moderate amount of a Master's MP."
+[a moderate amount of a Master's MP.]
+
+"Magic Crystal Sphere"
+[Magic Crystal Sphere]
+
+"Restores a significant amount of a Master's MP."
+[Restores a significant amount of a Master's MP.]
+
+"A sphere of crystal that restores"
+[A sphere of crystal that restores]
+
+"a significant amount of a Master's MP."
+[a significant amount of a Master's MP.]
+
+"（予備）"
+[（予備）]
+
+"Elixir"
+[Elixir]
+
+"Totally heals Servant HP and MP."
+[Totally heals Servant HP and MP.]
+
+"A nostrum of mysterious origins that heals"
+[A nostrum of mysterious origins that heals]
+
+"one's vitality, strength and magic."
+[one's vitality, strength and magic.]
+
+"Remedy"
+[Remedy]
+
+"Removes poison, paralysis, and curse."
+[Removes poison, paralysis, and curse.]
+
+"A mysterious pill "
+[A mysterious pill ]
+
+"that instantly cures any illness."
+[that instantly cures any illness.]
+
+"Return Crystal"
+[Return Crystal]
+
+"Used to escape from the Arena back onto campus."
+[Used to escape from the Arena back onto campus.]
+
+"A cylindrical crystal that allows the user"
+[A cylindrical crystal that allows the user]
+
+"to immediately return to campus."
+[to immediately return to campus.]
+
+"Sakura's Special Lunch"
+[Sakura's Special Lunch]
+
+"Heals moderate Servant HP; heals status effects."
+[Heals moderate Servant HP; heals status effects.]
+
+"A lunch made by Sakura with love and justice."
+[A lunch made by Sakura with love and justice.]
+
+"Its flavor is subtle yet complex."
+[Its flavor is subtle yet complex.]
+
+"（予備）"
+[（予備）]
+
+"Sakura's Amazing Lunch"
+[Sakura's Amazing Lunch]
+
+"Mostly heals Servant HP; heals status effects."
+[Mostly heals Servant HP; heals status effects.]
+
+"An improved version of Sakura's beloved lunch."
+[An improved version of Sakura's beloved lunch.]
+
+"Its savor stays on the tongue like a fine wine."
+[Its savor stays on the tongue like a fine wine.]
+
+"Sakura's Supreme Lunch"
+[Sakura's Supreme Lunch]
+
+"Totally heals Servant HP, heals status effects."
+[Totally heals Servant HP, heals status effects.]
+
+"The legendary version of Sakura's lunch recipe."
+[The legendary version of Sakura's lunch recipe.]
+
+"It is seen as god's gift to the culinary arts."
+[It is seen as god's gift to the culinary arts.]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"Portable Terminal"
+[Portable Terminal]
+
+"Used to receive info about the Holy Grail War."
+[Used to receive info about the Holy Grail War.]
+
+"The latest in smart phone technology."
+[The latest in smart phone technology.]
+
+""
+[]
+
+"Private Room Password"
+[Private Room Password]
+
+"Allows access to your private room."
+[Allows access to your private room.]
+
+"A small data chip that allows a user"
+[A small data chip that allows a user]
+
+"to update the software on their terminal."
+[to update the software on their terminal.]
+
+"Faded Journal"
+[Faded Journal]
+
+"A very old journal with parchment pages."
+[A very old journal with parchment pages.]
+
+"A journal kept by a pirate of great renown"
+[A journal kept by a pirate of great renown]
+
+"although the writing is barely legible now."
+[although the writing is barely legible now.]
+
+"Pirate Booty"
+[Pirate Booty]
+
+"Shining treasure of silver and gold."
+[Shining treasure of silver and gold.]
+
+"Treasures that have been created by hacking the"
+[Treasures that have been created by hacking the]
+
+"Arena and can be sold for a premium."
+[Arena and can be sold for a premium.]
+
+"Vorpal Blade"
+[Vorpal Blade]
+
+"Is devastating to a certain something..."
+[Is devastating to a certain something...]
+
+"Beware the snicker-snack of its keen blade!"
+[Beware the snicker-snack of its keen blade!]
+
+""
+[]
+
+"Malachite"
+[Malachite]
+
+"A green stone with a unique striped pattern."
+[A green stone with a unique striped pattern.]
+
+"Material used in alchemy."
+[Material used in alchemy.]
+
+""
+[]
+
+"Lion Lapel Badge"
+[Lion Lapel Badge]
+
+"A golden badge engraved with an image of a lion."
+[A golden badge engraved with an image of a lion.]
+
+"A lapel badge made of pure gold and intricately"
+[A lapel badge made of pure gold and intricately]
+
+"engraved with the image of a rampant lion."
+[engraved with the image of a rampant lion.]
+
+"Comic Book"
+[Comic Book]
+
+"A popular comic book."
+[A popular comic book.]
+
+"A copy of the popular American comic"
+[A copy of the popular American comic]
+
+""Pop" Goes the Hamster: A Cautionary Tale."
+["Pop" Goes the Hamster: A Cautionary Tale.]
+
+"Manga"
+[Manga]
+
+"A popular Japanese comic book."
+[A popular Japanese comic book.]
+
+"A copy of the popular Japanese comic"
+[A copy of the popular Japanese comic]
+
+"Angry Little Robot: Crotch Violence EXTEND."
+[Angry Little Robot: Crotch Violence EXTEND.]
+
+"Key Card"
+[Key Card]
+
+"A black magnetic key card."
+[A black magnetic key card.]
+
+"An item that opens a specific door."
+[An item that opens a specific door.]
+
+""
+[]
+
+"（予備）"
+[（予備）]
+
+"Sakura's Lunch Ver. 0"
+[Sakura's Lunch Ver. 0]
+
+"A boxed lunch popular with students."
+[A boxed lunch popular with students.]
+
+"A lunch made by Sakura as per my humble request."
+[A lunch made by Sakura as per my humble request.]
+
+"It looks delicious."
+[It looks delicious.]
+
+"Ruby"
+[Ruby]
+
+"A large gem mysteriously sold in the commissary."
+[A large gem mysteriously sold in the commissary.]
+
+"A beautiful red gem. Its incredible beauty is"
+[A beautiful red gem. Its incredible beauty is]
+
+"only surpassed by its incredible price tag."
+[only surpassed by its incredible price tag.]
+
+"Kendo Sword"
+[Kendo Sword]
+
+"A sword made of bamboo; used to practice kendo."
+[A sword made of bamboo; used to practice kendo.]
+
+"A bamboo practice sword that Tig+"
+[A bamboo practice sword that Tig+]
+
+"Taiga has been using since she was a student."
+[Taiga has been using since she was a student.]
+
+"Tangerine"
+[Tangerine]
+
+"A normal, garden-variety citrus fruit."
+[A normal, garden-variety citrus fruit.]
+
+"Taiga seems to really need this for some reason."
+[Taiga seems to really need this for some reason.]
+
+""
+[]
+
+"Box of Persimmons"
+[Box of Persimmons]
+
+"A box chock-full of persimmons."
+[A box chock-full of persimmons.]
+
+"A part of the shipment of persimmons sent to"
+[A part of the shipment of persimmons sent to]
+
+"Taiga's parent's home."
+[Taiga's parent's home.]
+
+"Mystic Eye Killers"
+[Mystic Eye Killers]
+
+"A pair of black-framed glasses."
+[A pair of black-framed glasses.]
+
+"A pair of glasses left behind by a previous"
+[A pair of glasses left behind by a previous]
+
+"Master that negates the effects of Mystic Eyes."
+[Master that negates the effects of Mystic Eyes.]
+
+"Cauldron"
+[Cauldron]
+
+"A large stewpot."
+[A large stewpot.]
+
+"A large pot believed to belong to the gods."
+[A large pot believed to belong to the gods.]
+
+""
+[]
+
+"Crushed Ice"
+[Crushed Ice]
+
+"A small pile of crushed ice."
+[A small pile of crushed ice.]
+
+"Finely crushed ice made from the purest water."
+[Finely crushed ice made from the purest water.]
+
+""
+[]
+
+"Crab Omelet"
+[Crab Omelet]
+
+"Taiga's special crab omelet."
+[Taiga's special crab omelet.]
+
+"Looks to have had so much flour added to it that"
+[Looks to have had so much flour added to it that]
+
+"it looks more like a pancake than an omelet..."
+[it looks more like a pancake than an omelet...]
+
+"Shark's Fin"
+[Shark's Fin]
+
+"A fin cruelly cut from a defenseless shark."
+[A fin cruelly cut from a defenseless shark.]
+
+"Considered a delicacy by many gourmands."
+[Considered a delicacy by many gourmands.]
+
+""
+[]
+
+"Babylonian Coin"
+[Babylonian Coin]
+
+"A silver coin of great antiquity."
+[A silver coin of great antiquity.]
+
+"A coin widely used in trade in ancient Babylon."
+[A coin widely used in trade in ancient Babylon.]
+
+""
+[]
+
+"Spiny Lobster"
+[Spiny Lobster]
+
+"A large red crustacean; great with butter."
+[A large red crustacean; great with butter.]
+
+"Decapoda, spiny lobster or Panulirus."
+[Decapoda, spiny lobster or Panulirus.]
+
+"A lobster by any other name is still a lobster."
+[A lobster by any other name is still a lobster.]
+
+"Student Council Badge"
+[Student Council Badge]
+
+"A simple black data chip."
+[A simple black data chip.]
+
+"A piece of software that will give a generic NPC"
+[A piece of software that will give a generic NPC]
+
+"limited system functionality."
+[limited system functionality.]
+
+"Spring Roll"
+[Spring Roll]
+
+"Thin rice dough filled with minced vegetables."
+[Thin rice dough filled with minced vegetables.]
+
+"Recipe data that someone has deleted."
+[Recipe data that someone has deleted.]
+
+""
+[]
+
+"Kofta Kebab"
+[Kofta Kebab]
+
+"Egyptian take on the venerable kebob."
+[Egyptian take on the venerable kebob.]
+
+"Recipe data that someone has deleted."
+[Recipe data that someone has deleted.]
+
+""
+[]
+
+"Teacher's Emblem"
+[Teacher's Emblem]
+
+"A simple red data chip."
+[A simple red data chip.]
+
+"A piece of software that expands the"
+[A piece of software that expands the]
+
+"functionality of a system NPC."
+[functionality of a system NPC.]
+
+"Tiger Thermos"
+[Tiger Thermos]
+
+"A thermos with a picture of Tai+ a tiger on it. "
+[A thermos with a picture of Tai+ a tiger on it. ]
+
+"A thermos that Taiga fervently believes will"
+[A thermos that Taiga fervently believes will]
+
+"make her wish come true."
+[make her wish come true.]
+
+"Trigger Code Alpha"
+[Trigger Code Alpha]
+
+"Trigger for round 1."
+[Trigger for round 1.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 1."
+[during round 1.]
+
+"Trigger Code Beta"
+[Trigger Code Beta]
+
+"Trigger for round 1."
+[Trigger for round 1.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 1."
+[during round 1.]
+
+"Trigger Code Gamma"
+[Trigger Code Gamma]
+
+"Trigger for round 2."
+[Trigger for round 2.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 2."
+[during round 2.]
+
+"Trigger Code Delta"
+[Trigger Code Delta]
+
+"Trigger for round 2."
+[Trigger for round 2.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 2."
+[during round 2.]
+
+"Trigger Code Epsilon"
+[Trigger Code Epsilon]
+
+"Trigger for round 3."
+[Trigger for round 3.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 3."
+[during round 3.]
+
+"Trigger Code Zeta"
+[Trigger Code Zeta]
+
+"Trigger for round 3."
+[Trigger for round 3.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 3."
+[during round 3.]
+
+"Trigger Code Eta"
+[Trigger Code Eta]
+
+"Trigger for round 4."
+[Trigger for round 4.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 4."
+[during round 4.]
+
+"Trigger Code Theta"
+[Trigger Code Theta]
+
+"Trigger for round 4."
+[Trigger for round 4.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 4."
+[during round 4.]
+
+"Trigger Code Iota"
+[Trigger Code Iota]
+
+"Trigger for round 5."
+[Trigger for round 5.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 5."
+[during round 5.]
+
+"Trigger Code Kappa"
+[Trigger Code Kappa]
+
+"Trigger for round 5."
+[Trigger for round 5.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 5."
+[during round 5.]
+
+"Trigger Code Lambda"
+[Trigger Code Lambda]
+
+"Trigger for round 6."
+[Trigger for round 6.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 6."
+[during round 6.]
+
+"Trigger Code Mu"
+[Trigger Code Mu]
+
+"Trigger for round 6."
+[Trigger for round 6.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 6."
+[during round 6.]
+
+"Trigger Code Nu"
+[Trigger Code Nu]
+
+"Trigger for round 7."
+[Trigger for round 7.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 7."
+[during round 7.]
+
+"Trigger Code Xi"
+[Trigger Code Xi]
+
+"Trigger for round 7."
+[Trigger for round 7.]
+
+"Cipher key needed to gain access the Coliseum"
+[Cipher key needed to gain access the Coliseum]
+
+"during round 7."
+[during round 7.]
+
+"Antique Arrowhead"
+[Antique Arrowhead]
+
+"An enemy artifact retrieved for Rani."
+[An enemy artifact retrieved for Rani.]
+
+"An arrowhead of obvious antiquity."
+[An arrowhead of obvious antiquity.]
+
+""
+[]
+
+"Broken Arrow"
+[Broken Arrow]
+
+"An enemy artifact retrieved for Rani."
+[An enemy artifact retrieved for Rani.]
+
+"An arrow that has been broken in two."
+[An arrow that has been broken in two.]
+
+""
+[]
+
+"Feather Fletchings"
+[Feather Fletchings]
+
+"An enemy artifact retrieved for Rani."
+[An enemy artifact retrieved for Rani.]
+
+"Arrow fletching made with extraordinary skill"
+[Arrow fletching made with extraordinary skill]
+
+"from the feathers of a large bird."
+[from the feathers of a large bird.]
+
+"Alice's Note"
+[Alice's Note]
+
+"A memo left behind by Alice."
+[A memo left behind by Alice.]
+
+"A note written in a child's handwriting."
+[A note written in a child's handwriting.]
+
+""
+[]
+
+"Taiga's Lamp"
+[Taiga's Lamp]
+
+"Room decor: A lamp with Taiga's crest on it."
+[Room decor: A lamp with Taiga's crest on it.]
+
+"Indoor lighting given as a present by Taiga."
+[Indoor lighting given as a present by Taiga.]
+
+"It is said to illuminate the future."
+[It is said to illuminate the future.]
+
+"Taiga's Houseplant"
+[Taiga's Houseplant]
+
+"Room decor: A plant with Taiga's crest on it."
+[Room decor: A plant with Taiga's crest on it.]
+
+"A green plant expertly tended to by Taiga."
+[A green plant expertly tended to by Taiga.]
+
+"The image of a tiger is painted on its pot."
+[The image of a tiger is painted on its pot.]
+
+"Taiga's Incense Burner"
+[Taiga's Incense Burner]
+
+"Room decor: A censer with Taiga's crest on it."
+[Room decor: A censer with Taiga's crest on it.]
+
+"A dish used to warm fragrant oils and incense."
+[A dish used to warm fragrant oils and incense.]
+
+"It smells faintly of citrus."
+[It smells faintly of citrus.]
+
+"Taiga's Picture Frame"
+[Taiga's Picture Frame]
+
+"Room decor: A frame with Taiga's crest on it."
+[Room decor: A frame with Taiga's crest on it.]
+
+"A picture frame hand-made by Taiga herself."
+[A picture frame hand-made by Taiga herself.]
+
+"Use it to frame your most precious memory."
+[Use it to frame your most precious memory.]
+
+"Taiga's Tea Service"
+[Taiga's Tea Service]
+
+"Room decor: A tea set with Taiga's crest on it."
+[Room decor: A tea set with Taiga's crest on it.]
+
+"Speaking of three o'clock, it's snack time."
+[Speaking of three o'clock, it's snack time.]
+
+"Speaking of snacks, it's time for some tea."
+[Speaking of snacks, it's time for some tea.]
+
+"Taiga's Goldfish"
+[Taiga's Goldfish]
+
+"Room decor: Fishbowl with Taiga's crest on it."
+[Room decor: Fishbowl with Taiga's crest on it.]
+
+"It was first encountered at a local fair."
+[It was first encountered at a local fair.]
+
+"Alas, it only has a 5% chance of survival."
+[Alas, it only has a 5% chance of survival.]
+
+"Taiga's Stuffed Animal"
+[Taiga's Stuffed Animal]
+
+"Room decor: A stuffed animal; Taiga's namesake."
+[Room decor: A stuffed animal; Taiga's namesake.]
+
+"An adorable tiger stuffed animal."
+[An adorable tiger stuffed animal.]
+
+"Loathed, yet loved."
+[Loathed, yet loved.]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"Base Red Mystic Code"
+[Base Red Mystic Code]
+
+"You can't equip this just yet."
+[You can't equip this just yet.]
+
+"Conceptual weapon made from the shroud"
+[Conceptual weapon made from the shroud]
+
+"of a certain saint."
+[of a certain saint.]
+
+"Obsidian Feather"
+[Obsidian Feather]
+
+"A feather from a bird of unusual size."
+[A feather from a bird of unusual size.]
+
+"An artifact of Julius found in the Arena."
+[An artifact of Julius found in the Arena.]
+
+""
+[]
+
+"Nine☆Tails"
+[Nine☆Tails]
+
+"A good luck charm harvested from Caster."
+[A good luck charm harvested from Caster.]
+
+"What it's made out of is a secret...!"
+[What it's made out of is a secret...!]
+
+""
+[]
+
+"Bypass Circuit"
+[Bypass Circuit]
+
+"A device used to connect to the Holy Grail."
+[A device used to connect to the Holy Grail.]
+
+"The ultimate example of the Black Box theory."
+[The ultimate example of the Black Box theory.]
+
+"No one knows how it works, just that it does."
+[No one knows how it works, just that it does.]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+
+"（予備）"
+[（予備）]
+

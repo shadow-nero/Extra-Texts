@@ -1,0 +1,28 @@
+﻿"Leonard B. Harway"
+[Leonard B. Harway]
+
+"Gawain"
+[Gawain]
+
+"Servant Anonym"
+[Servant Anonym]
+
+"Excalibur Galatine:\nThe Resurrected Sword of Victory"
+[Excalibur Galatine:\nThe Resurrected Sword of Victory]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Knight of the Sun"
+[Knight of the Sun]
+
+"Excalibur"
+[Excalibur]
+
+"Character Background"
+[Character Background]
+
+""The White Knight of the Round Table""
+["The White Knight of the Round Table"]
+
+

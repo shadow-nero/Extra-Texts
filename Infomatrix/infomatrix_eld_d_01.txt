@@ -1,0 +1,28 @@
+﻿"Shinji Matou"
+[Shinji Matou]
+
+"Francis Drake"
+[Francis Drake]
+
+"Servant Anonym"
+[Servant Anonym]
+
+"Hunt of the Golden Hind:\nGolden Stag and the Eventide Tempest"
+[Hunt of the Golden Hind:\nGolden Stag and the Eventide Tempest]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Invincible Armada"
+[Invincible Armada]
+
+"Logbook"
+[Logbook]
+
+"Character Background"
+[Character Background]
+
+""Franciscus Draco""
+["Franciscus Draco"]
+
+

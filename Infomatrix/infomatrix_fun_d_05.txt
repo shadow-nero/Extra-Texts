@@ -1,0 +1,28 @@
+﻿"Julius Harway"
+[Julius Harway]
+
+"Li Shuwen"
+[Li Shuwen]
+
+"Servant Anonym"
+[Servant Anonym]
+
+"No Second Strike"
+[No Second Strike]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"A second strike isn't needed"
+[A second strike isn't needed]
+
+"Obfuscation"
+[Obfuscation]
+
+"Character Background"
+[Character Background]
+
+""Master of the Demonic Fist""
+["Master of the Demonic Fist"]
+
+

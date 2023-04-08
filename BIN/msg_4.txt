@@ -1,0 +1,28 @@
+﻿"Save your progress."
+[Salve seu progresso.]
+
+"Load saved data."
+[Carregue seu Salve]
+
+"Delete saved data."
+[Apague seu salve]
+
+"Change in-game settings."
+[Altere as configurações do jogo.]
+
+"Retry current match from day one."
+[Reinicie a partida atual desde o primeiro dia.]
+
+"Return to title without saving."
+[Retorne ao título sem salvar.]
+
+"Cannot be used."
+[Cannot be used.]
+
+"Retry current match from day one?"
+[Reiniciar a partida atual desde o primeiro dia?]
+
+"Return to title without saving?"
+[Retornar ao título sem salvar?]
+
+

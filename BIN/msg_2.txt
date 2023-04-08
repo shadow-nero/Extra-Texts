@@ -1,0 +1,22 @@
+﻿"Change the text display speed."
+[Altere a velocidade da exibição de texto.]
+
+"Turn event voices ON/OFF."
+[Ative/Desative as vozes nos eventos.]
+
+"Change the BGM volume."
+[Altere o volume BGM.]
+
+"Change SE and voice volumes."
+[Altere o SE e os volumes de voz.]
+
+"Change camera controls in Arena."
+[Altere os controles de câmera na Arena.]
+
+"Return all settings to default."
+[Retorne todas as configurações para o padrão.]
+
+"Save settings and return to System Menu."
+[Salve as configurações e retorne ao Menu do Sistema.]
+
+

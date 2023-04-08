@@ -1,0 +1,28 @@
+﻿"Rin Tohsaka"
+[Rin Tohsaka]
+
+"Cu Chulainn"
+[Cu Chulainn]
+
+"Cu Chulainn?"
+[Cu Chulainn?]
+
+"Gae Bolg:\nSpear of Barbaric Impalement"
+[Gae Bolg:\nSpear of Barbaric Impalement]
+
+"Thrust type?"
+[Thrust type?]
+
+"Wielder of Runes"
+[Wielder of Runes]
+
+"Child of Light"
+[Child of Light]
+
+"Character Background"
+[Character Background]
+
+""Knight of the Red Bough""
+["Knight of the Red Bough"]
+
+

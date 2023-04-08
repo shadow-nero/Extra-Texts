@@ -1,0 +1,28 @@
+﻿"Master's name"
+[Master's name]
+
+"Nero Claudius"
+[Nero Claudius]
+
+"Servant Anonym"
+[Servant Anonym]
+
+"Aestus Domus Aurea:\nGolden Theater of the Deranged"
+[Aestus Domus Aurea:\nGolden Theater of the Deranged]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Aestus Estus: The Embryonic Flame"
+[Aestus Estus: The Embryonic Flame]
+
+"The Great Fire of Rome"
+[The Great Fire of Rome]
+
+"Character Background"
+[Character Background]
+
+""Nero the Tyrant""
+["Nero the Tyrant"]
+
+

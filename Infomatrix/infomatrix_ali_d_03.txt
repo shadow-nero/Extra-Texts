@@ -1,0 +1,28 @@
+﻿"Alice"
+[Alice]
+
+"Nursery Rhyme"
+[Nursery Rhyme]
+
+"Alice?"
+[Alice?]
+
+"Maxwell's Demon - Maiden's Empire:\nQueens Glass Game"
+[Maxwell's Demon - Maiden's Empire:\nQueens Glass Game]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Jabberwock"
+[Jabberwock]
+
+"Nameless Forest"
+[Nameless Forest]
+
+"Character Background"
+[Character Background]
+
+""Nursery Rhyme""
+["Nursery Rhyme"]
+
+

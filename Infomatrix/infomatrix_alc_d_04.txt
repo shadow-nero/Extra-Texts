@@ -1,0 +1,28 @@
+﻿"Monji Gatou"
+[Monji Gatou]
+
+"Arcueid"
+[Arcueid]
+
+"Arcueid?"
+[Arcueid?]
+
+"Blut die Schwester"
+[Blut die Schwester]
+
+"Noble Phantasm Anonym"
+[Noble Phantasm Anonym]
+
+"Vampire...?"
+[Vampire...?]
+
+"True Ancestor"
+[True Ancestor]
+
+"Character Background"
+[Character Background]
+
+""True Ancestor""
+["True Ancestor"]
+
+

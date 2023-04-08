@@ -1,0 +1,28 @@
+﻿"Rani VIII"
+[Rani VIII]
+
+"Lu Bu Feng Xian"
+[Lu Bu Feng Xian]
+
+"Lu Bu Feng Xian?"
+[Lu Bu Feng Xian?]
+
+"God Force:\nThe Five Warriors of Guan Yu"
+[God Force:\nThe Five Warriors of Guan Yu]
+
+"Random shooting type?"
+[Random shooting type?]
+
+"Gate Halberd Shot"
+[Gate Halberd Shot]
+
+"Red Hare"
+[Red Hare]
+
+"Character Background"
+[Character Background]
+
+""General of Recursion""
+["General of Recursion"]
+
+
